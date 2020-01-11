@@ -1,0 +1,40 @@
+1. Tổng quan bài toán
+ - Hiện trạng
+ - Giải pháp
+ - Tổng quan các nghiên cứu đã có
+
+2. Tổng quan hệ thống
+ - Tổng quan nghiệp vụ
+ - Tổng quan kiến trúc
+ - Công nghệ sử dụng
+ - Mô hình hoạt động (mức khái niệm)
+
+3. Phân tích yêu cầu phần mềm
+ - Biểu đồ usecase tổng quan
+ - Các biểu đồ usecase phân rã
+ - Các yêu cầu phi chức năng
+
+4. Thiết kế hệ thống
+ - Biểu đồ hoạt động
+ - Biểu đồ lớp
+ - Biểu đồ trình tự
+ - Biểu đồ thành phần
+ - Biểu đồ triển khai
+
+5 Kết quả cài đặt
+ - Tổng quan kết quả cài đặt
+ - Giao diện hệ thống
+
+6. Các vấn đề tồn đọng và hướng phát triển trong tương lai
+ * Vấn đề tồn đong
+  - Cần cải thiện nhiều về giao diện
+  - 
+
+ * Hướng phát triển trong tương lai
+  - Cho phép các tđh xem lịch sử cập nhật dữ liệu,
+  - Lên lịch tự động đưa dl lên hệ thống
+  - Đưa dl lên hệ thống bằng cách thủ công
+  - Không quản lý sinh viên theo TĐH, quản lý theo định danh (kiểu kiểu cmt) để quản lý bằng cấp trọn đời
+
+
+7. Các kinh nghiệm, kỹ năng học được

@@ -1,0 +1,57 @@
+1. Tổng quan bài toán
+ - Hiện trạng:
+  + Bằng giả trong giáo dục, y tế, quan chức nhà nước
+  + 2 loại bằng giả: 
+   * do cơ sở làm bằng giả
+   * do mua bằng
+ - Giải pháp
+  + Các trường đại học tự xây dựng hệ thống ql bằng cấp cho mình
+   -> giải quyết được vđ 1
+  + Sử dụng công nghệ blockchain
+   -> giải quyết được cả 2 vđ
+  + Vẫn tồn tại một số vđ mà hướng tiếp cận 2 chưa giải quyết được 
+   -> vượt ngoài tầm hệ thống rồi, chỉ có thể giải quyết trong khuôn khổ bài toán khác
+ - Tổng quan các nghiên cứu đã có]
+  + Cả trong nước, nước ngoài đều rất quan tâm, nhưng chỉ dừng lại ở bằng cấp
+  + Chưa có hệ thống nào làm cả về dữ liệu học tập
+
+2. Tổng quan hệ thống
+ - Tìm hiểu nghiệp vụ (các bên liên quan)
+  + Trường Đại Học: là nguồn cung cấp dữ liệu học tập của các sinh viên
+  + BGD: chủ quản hệ thống, qđ ai là người được phép tham gia hệ thống và ghi dữ liệu lên mạng blockchain
+   -> tránh t/h bạn A giả mạo mình là tđh ABC, rồi fake dl mình được bằng xuất sắc, rồi ghi lên hệ thống
+   -> vì h/t có liên quan tới việc tích hợp dl -> chỉ có các tđh đủ nghiêm túc mới có thể tham gia 
+  + SV: sau khi học xong, sẽ được cấp bằng, có thể đăng nhập vào hệ thống để xem, đồng thời tạo token để chia sẻ cho nhà tuyển dụng
+   -> tôn trọng quyền riêng tư về điểm học tập của sv, không phải ai cũng có thể thoải mái được, mà chỉ những ai có token mới xem được 
+  + NTDL: là người có nhu cầu xác thực bằng cấp của sv; không y/c đăng kí, đăng nhập, nhưng phải có token
+ - Kiến trúc tổng quan:
+  + Tích hợp dữ liệu: thực hiện tích hợp dl từ các trường đại học lên hệ thống
+  + Ghi dl lên mạng bkc: Ghi dl lên mạng bkc
+  + Webapp: Cung cấp giao diện cho các người dùng, quản lý phân quyền, kết nối các phần của hệ thống...
+ - Công nghệ sử dụng:
+  + SSIS
+  + ipfs, ethereum
+  + nodejs, react
+ - Luông hoạt động hệ thống (mức khái niệm)
+  + tham gia hệ thống
+  + ghi dl lên hệ thống, ipfs, ethereum
+  + xem dl bằng cấp, tạo token
+  + xác thực bằng cấp
+
+3. Phân tích hệ thống
+ + Biểu đồ ca sử dụng
+
+4. Thiết kế hệ thống
+ - Thiết kế csdl
+  + csdl tđh
+  + csdl chung
+  + mongo db
+  + ipfs
+  + ethereum
+ - Sơ đồ lớp
+ - Biểu đồ trình tự
+ - Biểu đồ gói, thành phần, phân bố,...
+
+5. Kết quả cài đặt
+
+6. Kinh nghiệm học được....
