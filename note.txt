@@ -1,0 +1,5 @@
+- Xóa bớt các note trong biểu đồ -> cho dễ nhìn
+- Nhắc team về ảnh giao diện, 
+- Cập nhật thiết kế của csdl
+- Chốt uml để crop ảnh
+- Đổi màu ảnh

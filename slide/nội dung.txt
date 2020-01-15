@@ -52,6 +52,31 @@
  - Biểu đồ trình tự
  - Biểu đồ gói, thành phần, phân bố,...
 
-5. Kết quả cài đặt
+4. Tổng kết
+ - Hướng phát triển trong tương lai
+  + Xây dựng thêm một module cho phép tích hợp dữ liệu theo hướng thứ hai. Điều này giúp chúng ta mở ra một hướng phát triển mới:
+  + Không chỉ quản lý dl các tấm bằng đại học, mà còn hướng tới quản lý toàn bộ dữ liệu học tập của một người suốt cả cuộc đời
+  - Cho phép các tđh xem lịch sử cập nhật dữ liệu,
+  - Lên lịch tự động đưa dl lên hệ thống
+  - Đưa dl lên hệ thống bằng cách thủ công
 
-6. Kinh nghiệm học được....
+  
+ - Các kinh nghiệm, kỹ năng học được
+  + Làm việc nhóm
+   . Phân công công việc hợp lý, mỗi người một việc
+   . Kinh nghiệm trong việc tổ chức các buổi họp offline, online
+   . Sử dụng các công cụ làm việc nhóm: Messenger, Trello, GitLab
+   . Kỹ năng trình bày và bảo vệ ý kiến của mình với các thành viên khác trong nhóm
+  + Trải nghiệm xây dựng hệ thống theo một quy trình phát triển chuyên nghiệp
+   . Hiểu được tầm quan trọng của việc lập kế hoạch
+   . Học hỏi thêm được nhiều kiến thức về pttk hệ thống
+   . Làm các tài liệu
+  + Kiến thức chuyên môn
+   . Bài toán tích hợp dữ liệu và công cụ SSIS
+   . Công nghệ web Nodejs, React
+   . blockchain
+  + Viết báo cáo, thuyết trình
+   . Word, Powerpoint
+   . Thuyết trình
+   
+   
